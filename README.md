@@ -43,3 +43,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * The result should look as follows.
 
 ![moderate_solution](Images/moderate_solution.png)
+
+
+### CHALLENGES
+
+1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+
+![hard_solution](Images/hard_solution.png)
