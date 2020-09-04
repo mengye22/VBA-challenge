@@ -23,7 +23,7 @@ Using VBA scripting to analyze real stock market data.
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* Having conditional formatting that will highlight positive change in green and negative change in red.
 
 * The result should look as follows.
 
