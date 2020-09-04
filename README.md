@@ -1,9 +1,8 @@
 # The VBA of Wall Street
 
-## Project Description
+### Project Description
 
 Using VBA scripting to analyze real stock market data. 
-
 
 ### Files
 
